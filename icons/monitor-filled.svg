@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="13px" viewBox="0 0 16 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>monitor</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="App" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="31---hubbub.at~--team---(Left-Convo-w/-collapsed-team)@2x" transform="translate(-192.000000, -235.000000)">
+            <g id="Left-Sidebar" transform="translate(-1.023438, 7.000000)">
+                <g id="Conversations-Section" transform="translate(5.117188, 86.000000)">
+                    <g id="Random-Stuff-Conversation-Copy" transform="translate(0.000000, 20.000000)">
+                        <g id="Nick-Clark" transform="translate(0.000000, 114.000000)">
+                            <g id="monitor" transform="translate(189.335938, 9.000000)">
+                                <rect id="Rectangle-path" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" x="0" y="0" width="13.3046875" height="9" rx="1.26315789"></rect>
+                                <rect id="Rectangle-path" fill="#FFFFFF" x="1.0234375" y="1" width="11.2578125" height="7" rx="0.857142857"></rect>
+                                <path d="M3.99140625,11.3684211 L9.31328125,11.3684211" id="Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M6.65234375,9.5 L6.65234375,11.3684211" id="Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
