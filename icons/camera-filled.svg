@@ -1,16 +1,19 @@
-<svg
-  width="24"
-  height="24"
-  viewBox="0 0 24 24"
-  xmlns="http://www.w3.org/2000/svg"
-  fill="none"
-  stroke="currentColor"
-  stroke-width="2"
-  stroke-linecap="round"
-  stroke-linejoin="round"
->
-  <g transform="translate(1.733 1.529)" fill-rule="evenodd">
-    <polygon points="32.0639289 2.84814913 21.8617697 9.96852195 32.0639289 17.0888948" />
-    <rect width="21.862" height="19.937" rx="2.2" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="23px" viewBox="0 0 35 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Video (active)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="App" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="31---hubbub.at~--team---(Left-Convo-w/-collapsed-team)@2x" transform="translate(-643.000000, -528.000000)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2">
+            <g id="User-Controls" transform="translate(495.343750, 516.000000)">
+                <g id="Camera-w/-Carrot-(active)" transform="translate(148.398438, 13.000000)">
+                    <g id="Video-(active)" transform="translate(0.990322, 0.528708)">
+                        <polygon id="Shape" points="32.0639289 2.84814913 21.8617697 9.96852195 32.0639289 17.0888948"></polygon>
+                        <rect id="Rectangle-path" x="0" y="0" width="21.8617697" height="19.9370439" rx="2.2"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>
