@@ -1,6 +1,6 @@
 {
   "name": "hubbub-feather-icons",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simply beautiful open source icons",
   "main": "dist/feather.js",
   "files": [
