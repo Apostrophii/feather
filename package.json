@@ -1,6 +1,6 @@
 {
   "name": "hubbub-feather-icons",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simply beautiful open source icons",
   "main": "dist/feather.js",
   "files": [
@@ -56,5 +56,6 @@
     "url": "https://github.com/feathericons/feather.git"
   },
   "author": "Cole Bemis <cole@colebemis.com> (http://colebemis.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "typings": "./index.d.ts"
 }
